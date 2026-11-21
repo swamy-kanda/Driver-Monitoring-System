@@ -1,0 +1,27 @@
+# Virtual environments
+cv_env/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Runtime files
+realtime_state.json
+live_frame.jpg
+
+# Logs
+logs/
+*.log
+
+# Personal event images
+alerts/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
