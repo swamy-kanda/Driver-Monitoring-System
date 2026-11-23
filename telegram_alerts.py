@@ -1,8 +1,8 @@
 import requests
 import time
 
-BOT_TOKEN = "8826103607:AAGKIBUeaOjivnUAaqj2CSczTKBYlbuwLH8"
-CHAT_ID = "1178667077"
+BOT_TOKEN = "<Telegram_BOT_ID"
+CHAT_ID = "CHAT_ID"
 
 TELEGRAM_API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
